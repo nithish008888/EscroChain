@@ -64,7 +64,7 @@ In decentralized payment systems, building trust is essential—especially when 
 
 ---
 
-## 📸 Screenshot
+## 
 
 ![EscroChain Screenshot](https://github.com/user-attachments/assets/c32cd73e-2b3e-408c-82d7-55ce326cdefe)
 
